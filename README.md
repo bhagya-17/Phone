@@ -1,3 +1,9 @@
+phone-store/
+├── phone_store.py
+├── README.md
+└── .gitignore
+
+
 # 📱 Phone Store (In-Memory)
 
 A simple command-line **Phone Store simulation** written in Python — no database, no JSON, no external libraries.  
